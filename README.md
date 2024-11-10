@@ -44,11 +44,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img height="150" style="border-radius: 12px" src="https://i.pinimg.com/736x/ee/24/3e/ee243e3e468599e8e1e764b2596a2694.jpg"  />
-</div>
-
-###
