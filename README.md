@@ -1,5 +1,5 @@
-<h1 align="left">Hello, I'm Yousef A.</h1>
-<h3 align="left">A passionate software engineering student</h3>
+<h1 align="center">Hello, I'm Yousef A.</h1>
+<h3 align="center">Passionate Software Engineering Student</h3>
 
 ###
 
