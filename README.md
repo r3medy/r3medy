@@ -6,14 +6,14 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=J1nxqd&label=Visitations&labelColor=%23282a36&countColor=%23282a36&labelStyle=none"  />
+  <img src="https://api.visitorbadge.io/api/visitors?path=r3medy&label=Visitations&labelColor=%23282a36&countColor=%23282a36&labelStyle=none"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J1nxqd&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=J1nxqd&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_longest_streak=true" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=r3medy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=r3medy&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_longest_streak=true" height="150" alt="streak graph"  />
 </div>
 
 ###
