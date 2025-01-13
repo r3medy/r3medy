@@ -1,6 +1,5 @@
 <h4 align="center">Hello! I'm Yousef A.</h4>
 <h6 align="center">An aspiring software engineer currently studying for a bachelor's degree in computer science.</h6>
-<hr>
 
 ###
 <div align="center">
