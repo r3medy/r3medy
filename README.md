@@ -2,6 +2,11 @@
 <h6 align="left">An aspiring software engineer currently studying for a bachelor's degree in computer science.</h6>
 
 ###
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=r3medy&label=Visitations&labelColor=%23282a36&countColor=%23282a36&labelStyle=none"  />
+</div>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=r3medy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
