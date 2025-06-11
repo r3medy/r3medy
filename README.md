@@ -18,8 +18,6 @@
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/behance/1769FF" height="30" alt="behance logo"  />
 </div>
 
 ###
