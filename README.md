@@ -17,14 +17,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="discord logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
@@ -35,14 +27,6 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
   <img width="8" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31sm3pfhp65yp3mzxxyvdjudnbeq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sm3pfhp65yp3mzxxyvdjudnbeq&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
